@@ -1,0 +1,23 @@
+{
+  "author": "colohr",
+  "bugs": {
+    "url": "https://github.com/colohr/va11y.api/issues"
+  },
+  "dependencies": {
+    "fxy": "^0.1.725",
+    "@va11y/meta": "^0.0.1"
+  },
+  "description": "API Module",
+  "homepage": "https://github.com/colohr/va11y.api#readme",
+  "license": "ISC",
+  "main": "package/index.js",
+  "name": "@va11y/api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colohr/va11y.api.git"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "version": "0.0.1"
+}
